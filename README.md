@@ -27,13 +27,13 @@ description
 
 <h3>EDA & Dashboard:</h3>
 
-1- THE DISTRIBUTION OF JOB POSITIONS IN THE SAUDI ARABIA REGIONS
+1- The Distribution of job positions in the Saudi Arabia Region: 
 ![image](https://user-images.githubusercontent.com/74193850/202890975-a92cd505-7662-4554-a1e0-f816dc3c3fb8.png)
 
-2-DISTRIBUTION OF THE TOTAL JOB VACANCIES ANNOUNCED IN EACH MONTH FOR THE TOP FIVE REGIONS WITH VACANCIES JOB
+2-Distribution of The total job vacancies announced in each month for the top five regions with vacancies job
 ![image](https://user-images.githubusercontent.com/74193850/202890996-8279f969-faa5-48c4-8b70-3d83e9eb6f6d.png)
 
-3- THE DISTRIBUTION OF REQUIRED LEVELS OF JOBS IN 2020
+3- the Distribution of required levels of jobs in 2020
 ![image](https://user-images.githubusercontent.com/74193850/202891016-295d8eaa-cf61-48e6-ae4a-5bbfa5a35f37.png)
 
 <h3>Conclusion:</h3>
